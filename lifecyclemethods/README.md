@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by:Amrish.R
+Developed by:R.Amrish
 Registeration Number :212221040012
 */
 ```
